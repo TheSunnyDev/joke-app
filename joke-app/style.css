@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Karla", sans-serif;
+    
+}
+
+h1{
+    text-align: center;
+}
+jokes{
+    color: turquoise
+}
